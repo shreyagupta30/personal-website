@@ -1,0 +1,2 @@
+[prod]
+primary ansible_host=35.213.147.228
