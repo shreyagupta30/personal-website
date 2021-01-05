@@ -23,10 +23,10 @@ const Education = () => {
                   <p className="brown-text">Patiala, Punjab, IN</p>
                   <ul>
                     <li>
-                      B.E. in Electronics and Communication Engineering
+                      B.E. in Civil Engineering
                       (2017-2021)
                     </li>
-                    <li>GPA - 6.5 (Scale of 10)</li>
+                    <li>GPA - 7.5 (Scale of 10)</li>
                   </ul>
                 </div>
               </div>

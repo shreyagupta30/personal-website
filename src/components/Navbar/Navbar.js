@@ -13,7 +13,7 @@ const Navbar = () => {
               className="brand-logo teal-text"
             >
               <h1>
-                Shubhank Saxena
+                Shreya Gupta
                 <span className="brown-text light">Full Stack Developer</span>
               </h1>
             </a>
@@ -40,52 +40,12 @@ const Navbar = () => {
           </li>
           <li className="bold">
             <a
-              aria-label="Navigate to the Volunteering section"
-              href="#volunteering"
-              className="waves-effect waves-dark cyan-text"
-            >
-              <i className="mdi-action-favorite small"></i>
-              <span>Volunteering</span>
-            </a>
-          </li>
-          <li className="bold">
-            <a
-              aria-label="Navigate to the Projects section"
-              href="#projects"
-              className="waves-effect waves-dark indigo-text"
-            >
-              <i className="mdi-av-web small"></i>
-              <span>Projects</span>
-            </a>
-          </li>
-          <li className="bold">
-            <a
               aria-label="Navigate to the Projects section"
               href="#open-source"
               className="waves-effect waves-dark indigo-text"
             >
               <i className="mdi-social-group small"></i>
               <span>Open Source</span>
-            </a>
-          </li>
-          <li className="bold">
-            <a
-              aria-label="Navigate to the Skills section"
-              href="#skills"
-              className="waves-effect waves-dark purple-text"
-            >
-              <i className="mdi-av-equalizer small"></i>
-              <span>Skills</span>
-            </a>
-          </li>
-          <li className="bold">
-            <a
-              aria-label="Navigate to the Awards section"
-              href="#awards"
-              className="waves-effect waves-dark red-text"
-            >
-              <i className="mdi-action-grade small"></i>
-              <span>Awards</span>
             </a>
           </li>
           <li className="bold">
@@ -120,7 +80,7 @@ const Navbar = () => {
           </li>
           <li className="bold">
             <a
-              aria-label="Open Shubhank's resume in a new tab"
+              aria-label="Open Shreya's resume in a new tab"
               target="blank"
               href="https://drive.google.com/file/d/1GZ46UKKgDsK0eQeGHRqdWZjffoEUEYf_/view?usp=sharing"
               className="waves-effect waves-dark grey-text text-darken-3"
@@ -147,7 +107,7 @@ const Navbar = () => {
             href="#main"
             className="teal-text"
           >
-            Shubhank Saxena
+            Shreya Gupta 
           </a>
           <span className="brown-text light">Full Stack Developer</span>
         </div>
@@ -176,52 +136,12 @@ const Navbar = () => {
           </li>
           <li className="bold">
             <a
-              aria-label="Navigate to the Experience section"
-              href="#volunteering"
-              className="waves-effect waves-dark cyan-text"
-            >
-              <i className="mdi-action-favorite small"></i>
-              <span>Volunteering</span>
-            </a>
-          </li>
-          <li className="bold">
-            <a
-              aria-label="Navigate to the Projects section"
-              href="#projects"
-              className="waves-effect waves-dark indigo-text"
-            >
-              <i className="mdi-av-web small"></i>
-              <span>Projects</span>
-            </a>
-          </li>
-          <li className="bold">
-            <a
               aria-label="Navigate to the Projects section"
               href="#open-source"
               className="waves-effect waves-dark indigo-text"
             >
               <i className="mdi-social-group small"></i>
               <span>Open Source</span>
-            </a>
-          </li>
-          <li className="bold">
-            <a
-              aria-label="Navigate to the Skills section"
-              href="#skills"
-              className="waves-effect waves-dark purple-text"
-            >
-              <i className="mdi-av-equalizer small"></i>
-              <span>Skills</span>
-            </a>
-          </li>
-          <li className="bold">
-            <a
-              aria-label="Navigate to the Awards section"
-              href="#awards"
-              className="waves-effect waves-dark red-text"
-            >
-              <i className="mdi-action-grade small"></i>
-              <span>Awards</span>
             </a>
           </li>
           <li className="bold">
@@ -256,7 +176,7 @@ const Navbar = () => {
           </li>
           <li className="bold">
             <a
-              aria-label="Open Shubhank's Resume in a new tab"
+              aria-label="Open Shreya's Resume in a new tab"
               target="blank"
               href="https://drive.google.com/file/d/1GZ46UKKgDsK0eQeGHRqdWZjffoEUEYf_/view?usp=sharing"
               className="waves-effect waves-dark grey-text text-darken-3"

@@ -1,0 +1,16 @@
+name: deploy
+on:
+    push:
+        branches: [master]
+jobs:
+    deploy-GH:
+        name: Deploy on GH pages
+        runs-on: ubuntu-latest
+        steps:
+            -name: Deploy the code on Github pages
+            - uses: actions/setup-node@v1
+            with:
+                node-version: 12
+            - run: |
+                yarn i
+                yarn deploy
