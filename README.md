@@ -20,6 +20,5 @@
 Hello World! My name is Shreya Gupta, and I have created my personal website using React and Materialize CSS.<br/>
 
 Design credits goes to ![Andrew Borstein](https://github.com/andrewborstein/portfolio) <br/>
-Special thanks and credits to ![Jay Parmani](https://github.com/jsparmani) for helping me with deployment and CI/CD pipeline!
-</div>
+
 
