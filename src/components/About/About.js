@@ -19,7 +19,7 @@ const About = () => {
           problems.
         </p>
         <p>
-          As a web and AI developer, I enjoy using my obsessive attention to
+          As a web developer, I enjoy using my obsessive attention to
           detail, my unequivocal love for making things, and my mission-driven
           work ethic to literally change the world. That's why I’m excited to
           make dent in this universe!
@@ -27,24 +27,12 @@ const About = () => {
         <p>
           <strong>Current Focus</strong>:&nbsp;
           <a
-            aria-label="Building my own OS"
-            href="https://github.com/shubhank-saxena/Fenix-OS"
-          >
-            FenixOS
+            aria-label="Outreachy"
+            href="https://github.com/nmstate/nmstate/pull/1450"
+          > 
+            Outreachy
           </a>
-          &nbsp;//&nbsp;
-          <a
-            aria-label="My React Journey"
-            href="https://github.com/shubhank-saxena/My-Portfolio"
-          >
-            React
-          </a>
-          &nbsp;//&nbsp;
-          <a
-            aria-label="For the love of Deep Learning and NLP"
-            href="https://github.com/shubhank-saxena/dnn-speech-recognizer"
-          >
-            NLP/DL
+          &nbsp;//&nbspz
           </a>
         </p>
       </div>
