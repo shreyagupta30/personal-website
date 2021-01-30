@@ -4,7 +4,8 @@
 
 <a href="https://twitter.com/shreya_gupta30"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 
-# <a href="https://www.linkedin.com/in/shubhank-saxena"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<!-- <a href="https://www.linkedin.com/in/shubhank-saxena"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+-->
 
 <a href="https://www.facebook.com/profile.php?id=100002909378345"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://www.instagram.com/shreya.gupta30/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
