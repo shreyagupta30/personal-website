@@ -33,7 +33,6 @@ const About = () => {
             Outreachy
           </a>
           &nbsp;//&nbspz
-          </a>
         </p>
       </div>
     </section>
