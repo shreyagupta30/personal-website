@@ -8,91 +8,91 @@ const Contact = () => {
         <div className="container">
           <p>
             <a
-              aria-label="Email Shubhank"
-              href="mailto:saxena.shubhank.19@gmail.com"
+              aria-label="Email Shreya"
+              href="mailto:shreyagupta3011@gmail.com"
               data-position="top"
-              data-tooltip="Email Shubhank"
+              data-tooltip="Email Shreya"
               className="btn-floating btn-large waves-effect waves-light brown tooltipped"
             >
               <i className="fa fa-envelope"></i>
               <a
-                aria-label="Email Shubhank Saxena"
-                href="mailto:saxena.shubank.19@gmail.com"
+                aria-label="Email Shreya Gupta"
+                href="mailto:shreyagupta3011@gmail.com"
                 className="hoverline"
               >
-                saxena.shubhank.19@gmail.com
+                shreyagupta3011@gmail.com
               </a>
             </a>
           </p>
           <p>
             <a
-              aria-label="View Shubhank on GitHub"
-              href="https://github.com/shubhank-saxena"
+              aria-label="Visit Shreya on GitHub"
+              href="https://github.com/shreyagupta30"
               data-position="top"
-              data-tooltip="View Shubhank on GitHub"
+              data-tooltip="Visit Shreya on GitHub"
               className="btn-floating btn-large waves-effect waves-light brown tooltipped"
             >
               <i className="fa fa-github"></i>
               <a
-                aria-label="Shubhank on Github"
-                href="https://github.com/shubhank-saxena"
+                aria-label="Shreya on Github"
+                href="https://github.com/shreyagupta30"
                 className="hoverline"
               >
-                shubhank-saxena
+                shreyagupta30
               </a>
             </a>
           </p>
+//           <p>
+//             <a
+//               aria-label="View Shubha on LinkedIn"
+//               href="https://www.linkedin.com/in/shubhank-saxena/"
+//               data-position="top"
+//               data-tooltip="View Shubhank on LinkedIn"
+//               className="btn-floating btn-large waves-effect waves-light brown tooltipped"
+//             >
+//               <i className="fa fa-linkedin"></i>
+//               <a
+//                 aria-label="Shubhank on LinkedIn"
+//                 href="https://www.linkedin.com/in/shubhank-saxena/"
+//                 className="hoverline"
+//               >
+//                 linkedin.com/in/shubhank-saxena/
+//               </a>
+//             </a>
+//           </p>
+//           <p>
+//             <a
+//               aria-label="View Shreya on Medium"
+//               href="https://medium.com/@saxena.shubhank.19"
+//               data-position="top"
+//               data-tooltip="View Shubhank on Medium"
+//               className="btn-floating btn-large waves-effect waves-light brown tooltipped"
+//             >
+//               <i className="fa fa-medium"></i>
+//               <a
+//                 aria-label="Shubhank on Medium"
+//                 href="https://medium.com/@saxena.shubhank.19"
+//                 className="hoverline"
+//               >
+//                 @saxena.shubhank.19/
+//               </a>
+//             </a>
+//           </p>
           <p>
             <a
-              aria-label="View Shubhank on LinkedIn"
-              href="https://www.linkedin.com/in/shubhank-saxena/"
+              aria-label="Visit Shreya on Twitter"
+              href="https://twitter.com/shreya_gupta30"
               data-position="top"
-              data-tooltip="View Shubhank on LinkedIn"
-              className="btn-floating btn-large waves-effect waves-light brown tooltipped"
-            >
-              <i className="fa fa-linkedin"></i>
-              <a
-                aria-label="Shubhank on LinkedIn"
-                href="https://www.linkedin.com/in/shubhank-saxena/"
-                className="hoverline"
-              >
-                linkedin.com/in/shubhank-saxena/
-              </a>
-            </a>
-          </p>
-          <p>
-            <a
-              aria-label="View Shubhank on Medium"
-              href="https://medium.com/@saxena.shubhank.19"
-              data-position="top"
-              data-tooltip="View Shubhank on Medium"
-              className="btn-floating btn-large waves-effect waves-light brown tooltipped"
-            >
-              <i className="fa fa-medium"></i>
-              <a
-                aria-label="Shubhank on Medium"
-                href="https://medium.com/@saxena.shubhank.19"
-                className="hoverline"
-              >
-                @saxena.shubhank.19/
-              </a>
-            </a>
-          </p>
-          <p>
-            <a
-              aria-label="View Shubhank on Twitter"
-              href="https://twitter.com/19_saxena"
-              data-position="top"
-              data-tooltip="View Shubhank on Twitter"
+              data-tooltip="Visit Shreya on Twitter"
               className="btn-floating btn-large waves-effect waves-light brown tooltipped"
             >
               <i className="fa fa-twitter"></i>
               <a
-                aria-label="Shubhank on Medium"
-                href="https://twitter.com/19_saxena"
+                aria-label="Shreya on Twitter"
+                href="https://twitter.com/shreya_gupta30"
                 className="hoverline"
               >
-                @19_saxena
+                @shreya_gupta30
               </a>
             </a>
           </p>
