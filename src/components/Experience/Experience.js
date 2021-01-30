@@ -34,7 +34,7 @@ const Experience = () => {
             <p>
               <em className="grey-text">
                 Research Intern in Center of Cognitive Computing under
-                Dr.Pritish Varadwaj
+                Dr. U.S. Tiwari
               </em>
             </p>
             <ul>
