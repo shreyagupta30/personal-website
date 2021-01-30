@@ -31,27 +31,27 @@ const Education = () => {
                 </div>
               </div>
             </div>
-            <div className="col s12 m6">
-              <div className="card">
-                <div className="card-content">
-                  <p>
-                    <span className="card-title">
-                      <a
-                        href="https://jaipuria.edu.in/ghaziabadschool/"
-                        className="teal-text hoverline"
-                      >
-                        Seth Anandram Jaipuria School
-                      </a>
-                    </span>
-                  </p>
-                  <p className="brown-text">Ghaziabad, Uttar Pradesh, IN</p>
-                  <ul>
-                    <li>High School</li>
-                    <li>Percentage - 92%</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
+//             <div className="col s12 m6">
+//               <div className="card">
+//                 <div className="card-content">
+//                   <p>
+//                     <span className="card-title">
+//                       <a
+//                         href="https://jaipuria.edu.in/ghaziabadschool/"
+//                         className="teal-text hoverline"
+//                       >
+//                         Seth Anandram Jaipuria School
+//                       </a>
+//                     </span>
+//                   </p>
+//                   <p className="brown-text">Ghaziabad, Uttar Pradesh, IN</p>
+//                   <ul>
+//                     <li>High School</li>
+//                     <li>Percentage - 92%</li>
+//                   </ul>
+//                 </div>
+//               </div>
+//             </div>
           </div>
         </div>
       </section>
