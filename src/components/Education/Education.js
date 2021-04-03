@@ -26,33 +26,12 @@ const Education = () => {
                       B.E. in Civil Engineering
                       (2017-2021)
                     </li>
-                    <li>GPA - 7.5 (Scale of 10)</li>
+                    <li>GPA - 7.65 (Scale of 10)</li>
                   </ul>
                 </div>
               </div>
             </div>
-//             <div className="col s12 m6">
-//               <div className="card">
-//                 <div className="card-content">
-//                   <p>
-//                     <span className="card-title">
-//                       <a
-//                         href="https://jaipuria.edu.in/ghaziabadschool/"
-//                         className="teal-text hoverline"
-//                       >
-//                         Seth Anandram Jaipuria School
-//                       </a>
-//                     </span>
-//                   </p>
-//                   <p className="brown-text">Ghaziabad, Uttar Pradesh, IN</p>
-//                   <ul>
-//                     <li>High School</li>
-//                     <li>Percentage - 92%</li>
-//                   </ul>
-//                 </div>
-//               </div>
-//             </div>
-          </div>
+            </div>
         </div>
       </section>
     </>

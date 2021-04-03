@@ -9,10 +9,10 @@ const Experience = () => {
           <div className="card-content">
             <div className="row">
               <div className="col s12 m2">
-                <a href="https://www.iiita.ac.in/">
+                <a href="https://www.outreachy.org/">
                   <img
-                    alt="IIIT Allahabad"
-                    src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png/220px-Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png"
+                    alt="Outreachy"
+                    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Foutreachy%2Fstatus%2F1257339838287806464&psig=AOvVaw3MB5OyCP2I_nHRh38bHdYZ&ust=1617527752555000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMikwsre4e8CFQAAAAAdAAAAABAT"
                     className="responsive-img center-block"
                   />
                 </a>
@@ -21,10 +21,10 @@ const Experience = () => {
                 <p>
                   <span className="card-title">
                     <a
-                      href="https://www.iiita.ac.in/"
+                      href="https://www.outreachy.org/"
                       className="teal-text hoverline"
                     >
-                      IIIT Allahabad
+                      Outreachy
                     </a>
                   </span>
                 </p>
@@ -33,24 +33,20 @@ const Experience = () => {
             <div className="role brown-text">Research Intern</div>
             <p>
               <em className="grey-text">
-                Research Intern in Center of Cognitive Computing under
-                Dr. U.S. Tiwari
+                Outreachy Intern at Fedora Organisation - contributing to nmstate
               </em>
             </p>
             <ul>
               <li>
-                Development of fruit ripeness multi-class classification system,
-                which included the collection of data as well as it's training.
-                The data collection was non-invasive in nature.
+                Added wireguard support to nmstate and nispor.
               </li>
               <li>
-                Collected and curated biological dataset showing relation
-                between various chemical compounds and their percieced smell.
+                <strong> Technology stack : </strong>Python3, pytest, computer networking
               </li>
             </ul>
           </div>
           <div className="card-action">
-            <span>May 2019 - July 2019 | Allahabad, IN</span>
+            <span>Dec 2020 - March 2021 | Remote</span>
           </div>
         </div>
         <div className="card">
@@ -81,15 +77,123 @@ const Experience = () => {
             <div className="role brown-text">Fellowship</div>
             <p>
               <em className="grey-text">
-                OpenSource Contributor in MLH Fellowship
+                OpenSource Fellow @MLH Fellowship(Batch 1)
               </em>
             </p>
+            <ul>
+              <li>
+                Part of the Batch 1 of MLH Fellowship (powered by GitHub), 140 students selected out of 20,000
+              </li>
+              <li>
+                Worked on Meshes.jl, a computational geometry and meshing algorithms in Julia. 
+              </li>
+              <li>
+                <strong>Technology Stack : </strong> Julia, unittesting
+              </li>
+            </ul>
           </div>
           <div className="card-action">
-            <span>Oct 2020 - Ongoing | Kota, IN (Remote)</span>
+            <span>Oct 2020 - Dec 2020 | Remote</span>
           </div>
         </div>
-      </div>
+        <div className="card-action">
+            <span>Oct 2020 - Dec 2020 | Remote</span>
+          </div>
+        </div>
+        <div className="card">
+          <div className="card-content">
+            <div className="row">
+              <div className="col s12 m2">
+                <a href="https://www.iitd.ac.in/">
+                  <img
+                    alt="IITD"
+                    src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png/220px-Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png"
+                    className="responsive-img center-block"
+                  />
+                </a>
+              </div>
+              <div className="col s12 m10">
+                <p>
+                  <span className="card-title">
+                    <a
+                      href="https://hydrosenselab.github.io/"
+                      className="teal-text hoverline"
+                    >
+                      IIT Delhi
+                    </a>
+                  </span>
+                </p>
+              </div>
+            </div>
+            <div className="role brown-text">Research Intern</div>
+            <p>
+              <em className="grey-text">
+                Research Intern @HydroSense Lab under Dr. Manabendra Saharia
+              </em>
+            </p>
+            <ul>
+              <li>
+              Worked on India Water Model project. 
+              </li>
+              <li>
+              Worked with the multi- dimensional dataset to extract different features to create a visualisation library for any LIS datasets to create visualiza- tion globally.
+              </li>
+              <li>
+                <strong>Technology Stack: </strong>Python3, libraries like Matplotlib, Car- topy, Xarray, GDAL, Pandas, Numpy
+              </li>
+            </ul>
+          </div>
+          <div className="card-action">
+            <span>July 2020 - Jan 2021 | Remote</span>
+          </div>
+        </div>
+        <div className="card">
+          <div className="card-content">
+            <div className="row">
+              <div className="col s12 m2">
+                <a href="https://www.iiita.ac.in/">
+                  <img
+                    alt="Outreachy"
+                    src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png/220px-Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png"
+                    className="responsive-img center-block"
+                  />
+                </a>
+              </div>
+              <div className="col s12 m10">
+                <p>
+                  <span className="card-title">
+                    <a
+                      href="https://www.iiita.ac.in/"
+                      className="teal-text hoverline"
+                    >
+                      IIIT Allahabad
+                    </a>
+                  </span>
+                </p>
+              </div>
+            </div>
+            <div className="role brown-text">Research Intern</div>
+            <p>
+              <em className="grey-text">
+                Research Intern in Center of Cognitive Computing under
+                Dr. U.S. Tiwari
+              </em>
+            </p>
+            <ul>
+              <li>
+                Worked on a project in the EEG analysis lab under the guid- ance of Prof. U.S. Tiwari (Head, CCC, IIIT-A), 
+                mainly focused on building a tool- mental health diagnosis. 
+                Implemented multi-label classification on open-source data on EEG sig- nals.
+              </li>
+              <li>
+                <strong>Technology Stack: </strong>Python3, machine learning libraries like Scikit-learn, NumPy, pandas etc, Tensorflow, Keras, mne.
+              </li>
+            </ul>
+          </div>
+          <div className="card-action">
+            <span>Dec 2019 - Jan 2020 | Allahabad, IN</span>
+          </div>
+        </div>
     </section>
   );
 };

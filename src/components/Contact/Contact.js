@@ -42,42 +42,24 @@ const Contact = () => {
               </a>
             </a>
           </p>
-//           <p>
-//             <a
-//               aria-label="View Shubha on LinkedIn"
-//               href="https://www.linkedin.com/in/shubhank-saxena/"
-//               data-position="top"
-//               data-tooltip="View Shubhank on LinkedIn"
-//               className="btn-floating btn-large waves-effect waves-light brown tooltipped"
-//             >
-//               <i className="fa fa-linkedin"></i>
-//               <a
-//                 aria-label="Shubhank on LinkedIn"
-//                 href="https://www.linkedin.com/in/shubhank-saxena/"
-//                 className="hoverline"
-//               >
-//                 linkedin.com/in/shubhank-saxena/
-//               </a>
-//             </a>
-//           </p>
-//           <p>
-//             <a
-//               aria-label="View Shreya on Medium"
-//               href="https://medium.com/@saxena.shubhank.19"
-//               data-position="top"
-//               data-tooltip="View Shubhank on Medium"
-//               className="btn-floating btn-large waves-effect waves-light brown tooltipped"
-//             >
-//               <i className="fa fa-medium"></i>
-//               <a
-//                 aria-label="Shubhank on Medium"
-//                 href="https://medium.com/@saxena.shubhank.19"
-//                 className="hoverline"
-//               >
-//                 @saxena.shubhank.19/
-//               </a>
-//             </a>
-//           </p>
+          <p>
+            <a
+              aria-label="View Shreya on LinkedIn"
+              href="https://www.linkedin.com/in/shreyagupta30/"
+              data-position="top"
+              data-tooltip="View Shreya on LinkedIn"
+              className="btn-floating btn-large waves-effect waves-light brown tooltipped"
+            >
+              <i className="fa fa-linkedin"></i>
+              <a
+                aria-label="Shreya on LinkedIn"
+                href="https://www.linkedin.com/in/shreyagupta30/"
+                className="hoverline"
+              >
+                linkedin.com/in/shreyagupta30/
+              </a>
+            </a>
+          </p>
           <p>
             <a
               aria-label="Visit Shreya on Twitter"

@@ -25,14 +25,13 @@ const About = () => {
           make dent in this universe!
         </p>
         <p>
-          <strong>Current Focus</strong>:&nbsp;
+          <strong>Current Focus: </strong>
           <a
             aria-label="Outreachy"
             href="https://github.com/nmstate/nmstate/pull/1450"
           > 
             Outreachy
           </a>
-          &nbsp;//&nbspz
         </p>
       </div>
     </section>
