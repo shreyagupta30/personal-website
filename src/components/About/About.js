@@ -7,8 +7,7 @@ const About = () => {
       <div className="container flow-text">
         <blockquote>
           <h2>
-            Mission-driven full stack developer and NLP and Deep Learning
-            Practitioner with a passion for thoughtful Product Design,
+            Mission-driven full stack developer with a passion for thoughtful Product Design,
             collaboration, and teaching.
           </h2>
         </blockquote>

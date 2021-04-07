@@ -40,12 +40,42 @@ const Navbar = () => {
           </li>
           <li className="bold">
             <a
+              aria-label="Navigate to the Volunteering section"
+              href="#volunteering"
+              className="waves-effect waves-dark cyan-text"
+            >
+              <i className="mdi-action-favorite small"></i>
+              <span>Volunteering</span>
+            </a>
+          </li>
+          <li className="bold">
+            <a
+              aria-label="Navigate to the Projects section"
+              href="#projects"
+              className="waves-effect waves-dark indigo-text"
+            >
+              <i className="mdi-av-web small"></i>
+              <span>Projects</span>
+            </a>
+          </li>
+          <li className="bold">
+            <a
               aria-label="Navigate to the Projects section"
               href="#open-source"
               className="waves-effect waves-dark indigo-text"
             >
               <i className="mdi-social-group small"></i>
               <span>Open Source</span>
+            </a>
+          </li>
+          <li className="bold">
+            <a
+              aria-label="Navigate to the Skills section"
+              href="#skills"
+              className="waves-effect waves-dark purple-text"
+            >
+              <i className="mdi-av-equalizer small"></i>
+              <span>Skills</span>
             </a>
           </li>
           <li className="bold">
@@ -71,7 +101,7 @@ const Navbar = () => {
           <li className="bold">
             <a
               aria-label="Navigate to the Blog section"
-              href="https://blog.shubhank.codes"
+              href="https://blog.shreya.codes"
               className="waves-effect waves-dark yellow-text text-darken-2"
             >
               <i className="mdi-content-create small"></i>
@@ -136,12 +166,42 @@ const Navbar = () => {
           </li>
           <li className="bold">
             <a
+              aria-label="Navigate to the Experience section"
+              href="#volunteering"
+              className="waves-effect waves-dark cyan-text"
+            >
+              <i className="mdi-action-favorite small"></i>
+              <span>Volunteering</span>
+            </a>
+          </li>
+          <li className="bold">
+            <a
+              aria-label="Navigate to the Projects section"
+              href="#projects"
+              className="waves-effect waves-dark indigo-text"
+            >
+              <i className="mdi-av-web small"></i>
+              <span>Projects</span>
+            </a>
+          </li>
+          <li className="bold">
+            <a
               aria-label="Navigate to the Projects section"
               href="#open-source"
               className="waves-effect waves-dark indigo-text"
             >
               <i className="mdi-social-group small"></i>
               <span>Open Source</span>
+            </a>
+          </li>
+          <li className="bold">
+            <a
+              aria-label="Navigate to the Skills section"
+              href="#skills"
+              className="waves-effect waves-dark purple-text"
+            >
+              <i className="mdi-av-equalizer small"></i>
+              <span>Skills</span>
             </a>
           </li>
           <li className="bold">
@@ -166,11 +226,11 @@ const Navbar = () => {
           </li>
           <li className="bold">
             <a
-              aria-label="Navigate to the Contact section"
-              href="#blog"
-              className="waves-effect waves-dark yellow-text text-dark-3"
+              aria-label="Navigate to the Blog section"
+              href="https://blog.shreya.codes"
+              className="waves-effect waves-dark yellow-text text-darken-2"
             >
-              <i className="mdi-content-mail small"></i>
+              <i className="mdi-content-create small"></i>
               <span>Blog</span>
             </a>
           </li>
