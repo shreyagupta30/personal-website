@@ -5,6 +5,7 @@ const Experience = () => {
     <section id="experience" className="section scrollspy">
       <h3 className="page-title white-text teal">Experience</h3>
       <div className="container">
+
         <div className="card">
           <div className="card-content">
             <div className="row">
@@ -12,7 +13,7 @@ const Experience = () => {
                 <a href="https://www.outreachy.org/">
                   <img
                     alt="Outreachy"
-                    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Foutreachy%2Fstatus%2F1257339838287806464&psig=AOvVaw3MB5OyCP2I_nHRh38bHdYZ&ust=1617527752555000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMikwsre4e8CFQAAAAAdAAAAABAT"
+                    src="https://pbs.twimg.com/profile_images/561419803202568194/Pjk5iqNn.png"
                     className="responsive-img center-block"
                   />
                 </a>
@@ -30,7 +31,7 @@ const Experience = () => {
                 </p>
               </div>
             </div>
-            <div className="role brown-text">Research Intern</div>
+            <div className="role brown-text">Intern</div>
             <p>
               <em className="grey-text">
                 Outreachy Intern at Fedora Organisation - contributing to nmstate
@@ -49,6 +50,7 @@ const Experience = () => {
             <span>Dec 2020 - March 2021 | Remote</span>
           </div>
         </div>
+
         <div className="card">
           <div className="card-content">
             <div className="row">
@@ -68,7 +70,7 @@ const Experience = () => {
                       href="https://fellowship.mlh.io/"
                       className="teal-text hoverline"
                     >
-                      Major League Hacking
+                    Major League Hacking
                     </a>
                   </span>
                 </p>
@@ -77,7 +79,7 @@ const Experience = () => {
             <div className="role brown-text">Fellowship</div>
             <p>
               <em className="grey-text">
-                OpenSource Fellow @MLH Fellowship(Batch 1)
+              OpenSource Fellow @MLH Fellowship(Batch 1)
               </em>
             </p>
             <ul>
@@ -96,18 +98,16 @@ const Experience = () => {
             <span>Oct 2020 - Dec 2020 | Remote</span>
           </div>
         </div>
-        <div className="card-action">
-            <span>Oct 2020 - Dec 2020 | Remote</span>
-          </div>
-        </div>
+
+
         <div className="card">
           <div className="card-content">
             <div className="row">
               <div className="col s12 m2">
                 <a href="https://www.iitd.ac.in/">
                   <img
-                    alt="IITD"
-                    src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png/220px-Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png"
+                    alt="IIT Delhi"                    
+                    src="https://lh3.googleusercontent.com/proxy/LRXe4EeXiF5Iw3Og2p3Mww9tEC-p3mIusANeIw-aN_uHNPLM1ITlPhPKDPGz5wVn_hhTICcAy8Vb0W6Y1NvCBbs"
                     className="responsive-img center-block"
                   />
                 </a>
@@ -119,16 +119,16 @@ const Experience = () => {
                       href="https://hydrosenselab.github.io/"
                       className="teal-text hoverline"
                     >
-                      IIT Delhi
+                    IIT Delhi
                     </a>
                   </span>
                 </p>
               </div>
             </div>
-            <div className="role brown-text">Research Intern</div>
+            <div className="role brown-text">Research Internship</div>
             <p>
               <em className="grey-text">
-                Research Intern @HydroSense Lab under Dr. Manabendra Saharia
+              Research Intern @HydroSense Lab under Dr. Manabendra Saharia
               </em>
             </p>
             <ul>
@@ -147,13 +147,14 @@ const Experience = () => {
             <span>July 2020 - Jan 2021 | Remote</span>
           </div>
         </div>
+
         <div className="card">
           <div className="card-content">
             <div className="row">
               <div className="col s12 m2">
                 <a href="https://www.iiita.ac.in/">
                   <img
-                    alt="Outreachy"
+                    alt="IIIT Allahabad"                    
                     src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png/220px-Indian_Institute_of_Information_Technology%2C_Allahabad_Logo.png"
                     className="responsive-img center-block"
                   />
@@ -166,17 +167,17 @@ const Experience = () => {
                       href="https://www.iiita.ac.in/"
                       className="teal-text hoverline"
                     >
-                      IIIT Allahabad
+                    IIIT Allahabad
                     </a>
                   </span>
                 </p>
               </div>
             </div>
-            <div className="role brown-text">Research Intern</div>
+            <div className="role brown-text">Research Internship</div>
             <p>
               <em className="grey-text">
-                Research Intern in Center of Cognitive Computing under
-                Dr. U.S. Tiwari
+              Research Intern in Center of Cognitive Computing under
+              Dr. U.S. Tiwari
               </em>
             </p>
             <ul>
@@ -194,6 +195,7 @@ const Experience = () => {
             <span>Dec 2019 - Jan 2020 | Allahabad, IN</span>
           </div>
         </div>
+</div>
     </section>
   );
 };
