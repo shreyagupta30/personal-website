@@ -69,7 +69,7 @@ Software Development Division Head
                 <a href="https://www.girlscript.tech/home">
                   <img
                     alt="GirlScript"
-                    src="https://media-exp1.licdn.com/dms/image/C4D0BAQGIb09ZW2tSUw/company-logo_200_200/0/1519922053637?e=2159024400&v=beta&t=wj9Q_wzj6gkBGQaKlsljUlwlQr85Q3G-O6g4u-9HQRU"
+                    src="https://pbs.twimg.com/profile_images/1257536509978107905/Px8so8Ny_400x400.jpg"
                     className="responsive-img center-block"
                   />
                 </a>
