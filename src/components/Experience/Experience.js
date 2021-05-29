@@ -6,6 +6,51 @@ const Experience = () => {
       <h3 className="page-title white-text teal">Experience</h3>
       <div className="container">
 
+      <div className="card">
+          <div className="card-content">
+            <div className="row">
+              <div className="col s12 m2">
+                <a href="https://mentorship.lfx.linuxfoundation.org/project/aad4229f-704f-4230-a59e-db8fd0f5869e">
+                  <img
+                    alt="LFX"
+                    src="https://images.credly.com/images/e6066b96-c59d-49b6-87cc-d8873022e84f/blob.png"
+                    className="responsive-img center-block"
+                  />
+                </a>
+              </div>
+              <div className="col s12 m10">
+                <p>
+                  <span className="card-title">
+                    <a
+                      href="https://mentorship.lfx.linuxfoundation.org/project/aad4229f-704f-4230-a59e-db8fd0f5869e"
+                      className="teal-text hoverline"
+                    >
+                      LF Networking - Anuket Project
+                    </a>
+                  </span>
+                </p>
+              </div>
+            </div>
+            <div className="role brown-text">Mentee</div>
+            <p>
+              <em className="grey-text">
+                Full time contributing to Anuket Project as mentee.  
+              </em>
+            </p>
+            <ul>
+              <li>
+                Automating Test-tools deployment in Openstack and Kubernetes
+              </li>
+              <li>
+                <strong> Technology stack : </strong>Python, openstack, Kubernetes
+              </li>
+            </ul>
+          </div>
+          <div className="card-action">
+            <span>June 2021- August 2021 | Remote</span>
+          </div>
+        </div>
+
         <div className="card">
           <div className="card-content">
             <div className="row">
@@ -107,7 +152,7 @@ const Experience = () => {
                 <a href="https://www.iitd.ac.in/">
                   <img
                     alt="IIT Delhi"                    
-                    src="https://lh3.googleusercontent.com/proxy/LRXe4EeXiF5Iw3Og2p3Mww9tEC-p3mIusANeIw-aN_uHNPLM1ITlPhPKDPGz5wVn_hhTICcAy8Vb0W6Y1NvCBbs"
+                    src="https://www.latestlaws.com/media/2020/05/1590760739.png"
                     className="responsive-img center-block"
                   />
                 </a>

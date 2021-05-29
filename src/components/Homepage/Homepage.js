@@ -7,9 +7,9 @@ const Homepage = () => {
         <div className="overlay"></div>
         <div className="container">
           <h2>
-            I want to <span className="teal">make things</span>
+            <span className="teal">Hi!</span>
             <br />
-            that <span className="underline">make a difference</span>.
+            <span className="underline">Welcome to my corner of the Internet.</span>
           </h2>
         </div>
       </section>

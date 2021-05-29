@@ -269,7 +269,7 @@ const Projects = (props) => {
                     </div>
                     <div className="card-content">
                       <span className="card-title activator teal-text hoverline">
-                        Spolier Blocker
+                        Spoiler Blocker
                         <i className="mdi-navigation-more-vert right"></i>
                       </span>
                       <p>A chrome extension to block all the spoilers of Avengers-Endgame</p>
