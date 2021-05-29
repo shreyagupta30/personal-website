@@ -163,7 +163,7 @@ const Projects = (props) => {
                     <div className="card-image waves-effect waves-block waves-light">
                       <img
                         alt="URL"
-                        src=""
+                        src="https://user-images.githubusercontent.com/29003047/120075209-fa8f9d80-c0bd-11eb-8199-c8f2842b5834.png"
                         className="activator"
                       />
                     </div>
