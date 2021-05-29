@@ -98,9 +98,11 @@ const Navbar = () => {
               <span>Contact</span>
             </a>
           </li>
+          <hr/>
           <li className="bold">
             <a
               aria-label="Navigate to the Blog section"
+              target="blank"
               href="https://blog.shreya.codes"
               className="waves-effect waves-dark yellow-text text-darken-2"
             >
@@ -224,10 +226,12 @@ const Navbar = () => {
               <span>Contact</span>
             </a>
           </li>
+          <hr/>
           <li className="bold">
             <a
               aria-label="Navigate to the Blog section"
               href="https://blog.shreya.codes"
+              target="blank"
               className="waves-effect waves-dark yellow-text text-darken-2"
             >
               <i className="mdi-content-create small"></i>

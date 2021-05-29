@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => {
   return (
     <>
-      <section id="contact" className="section scrollspy full-height">
+      <section id="contact" className="section scrollspy">
         <h3 className="page-title white-text teal">Contact</h3>
         <div className="container">
           <p>
