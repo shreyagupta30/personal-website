@@ -20,9 +20,9 @@ class App extends React.Component {
           <Homepage />
           <About />
           <Experience />
-          <Volunteering />
           <Projects />
           <OpenSource />
+          <Volunteering />
           <Skills />
           <Education />
           <Contact />

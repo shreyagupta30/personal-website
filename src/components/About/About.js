@@ -24,7 +24,7 @@ const About = () => {
           detail, my unequivocal love for making things, and my mission-driven
           work ethic in my day to day to make it impactful. 
           <p>
-          Outside of work, you can find me painting beautiful scenaries and baking delicacies. 
+          Outside of work, you can find me painting beautiful scenaries, clicking photographs of beautiful skies and baking delicacies. 
           </p>
         </p>
         <p>
