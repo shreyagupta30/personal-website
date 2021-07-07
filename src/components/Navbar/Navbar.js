@@ -40,16 +40,6 @@ const Navbar = () => {
           </li>
           <li className="bold">
             <a
-              aria-label="Navigate to the Volunteering section"
-              href="#volunteering"
-              className="waves-effect waves-dark cyan-text"
-            >
-              <i className="mdi-action-favorite small"></i>
-              <span>Volunteering</span>
-            </a>
-          </li>
-          <li className="bold">
-            <a
               aria-label="Navigate to the Projects section"
               href="#projects"
               className="waves-effect waves-dark indigo-text"
@@ -66,6 +56,16 @@ const Navbar = () => {
             >
               <i className="mdi-social-group small"></i>
               <span>Open Source</span>
+            </a>
+          </li>
+          <li className="bold">
+            <a
+              aria-label="Navigate to the Volunteering section"
+              href="#volunteering"
+              className="waves-effect waves-dark cyan-text"
+            >
+              <i className="mdi-action-favorite small"></i>
+              <span>Volunteering</span>
             </a>
           </li>
           <li className="bold">
@@ -168,16 +168,6 @@ const Navbar = () => {
           </li>
           <li className="bold">
             <a
-              aria-label="Navigate to the Experience section"
-              href="#volunteering"
-              className="waves-effect waves-dark cyan-text"
-            >
-              <i className="mdi-action-favorite small"></i>
-              <span>Volunteering</span>
-            </a>
-          </li>
-          <li className="bold">
-            <a
               aria-label="Navigate to the Projects section"
               href="#projects"
               className="waves-effect waves-dark indigo-text"
@@ -194,6 +184,16 @@ const Navbar = () => {
             >
               <i className="mdi-social-group small"></i>
               <span>Open Source</span>
+            </a>
+          </li>
+          <li className="bold">
+            <a
+              aria-label="Navigate to the Experience section"
+              href="#volunteering"
+              className="waves-effect waves-dark cyan-text"
+            >
+              <i className="mdi-action-favorite small"></i>
+              <span>Volunteering</span>
             </a>
           </li>
           <li className="bold">

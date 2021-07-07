@@ -20,7 +20,7 @@ const OpenSource = props => {
                         Nmstate/Nmstate
                         <i className="mdi-navigation-more-vert right"></i>
                       </span>
-                      <p>Contributed by adding Wireguard support</p>
+                      <p>Added Wireguard support to nmstate</p>
                     </div>
                     <div className="card-reveal">
                       <span className="card-title brown-text">
@@ -67,7 +67,7 @@ const OpenSource = props => {
                         jaegertracing/jaeger-analytics-java
                         <i className="mdi-navigation-more-vert right"></i>
                       </span>
-                      <p>Contributed by adding Documentation for spinning up notebook</p>
+                      <p>Contributed by adding Documentation for spinning up notebook and perform data</p>
                     </div>
                     <div className="card-reveal">
                       <span className="card-title brown-text">
