@@ -13,7 +13,7 @@ const Projects = (props) => {
                     <div className="card-image waves-effect waves-block waves-light">
                       <img
                         alt="Cisco Meraki"
-                        src="https://shubhank.codes/media/images/images.jpg"
+                        src="https://shubhank19.pythonanywhere.com/media/images/images.jpg"
                         className="activator"
                       />
                     </div>
@@ -63,7 +63,7 @@ const Projects = (props) => {
                     <div className="card-image waves-effect waves-block waves-light">
                       <img
                         alt="Mid Day Meal"
-                        src="https://shubhank.codes/media/images/Screenshot_from_2020-08-03_15-27-13.jpg"
+                        src="https://shubhank19.pythonanywhere.com/media/images/Screenshot_from_2020-08-03_15-27-13.jpg"
                         className="activator"
                       />
                     </div>
@@ -116,7 +116,7 @@ const Projects = (props) => {
                     <div className="card-image waves-effect waves-block waves-light">
                       <img
                         alt="Flower Classification"
-                        src="https://shubhank.codes/media/images/Screenshot_from_2020-08-27_12-03-08.jpg"
+                        src="https://shubhank19.pythonanywhere.com/media/images/Screenshot_from_2020-08-27_12-03-08.jpg"
                         className="activator"
                       />
                     </div>

@@ -9,25 +9,25 @@ const LanguageSkills = (props) => {
           <div className="row text-center">
 
                 <div className="col s3 m2">
-                  <img alt="" src="https://shubhank.codes/media/images/icons8-c-programming-144.png" className="responsive-img" />
+                  <img alt="" src="https://shubhank19.pythonanywhere.com/media/images/icons8-c-programming-144.png" className="responsive-img" />
                   <br />
                   C
                 </div>
 
                 <div className="col s3 m2">
-                  <img alt="" src="https://shubhank.codes/media/images/icons8-c-144.png" className="responsive-img" />
+                  <img alt="" src="https://shubhank19.pythonanywhere.com/media/images/icons8-c-144.png" className="responsive-img" />
                   <br />
                   C++
                 </div>
 
                 <div className="col s3 m2">
-                  <img alt="" src="https://shubhank.codes/media/images/icons8-python-144.png" className="responsive-img" />
+                  <img alt="" src="https://shubhank19.pythonanywhere.com/media/images/icons8-python-144.png" className="responsive-img" />
                   <br />
                   Python
                 </div>
 
                 <div className="col s3 m2">
-                  <img alt="" src="https://shubhank.codes/media/images/icons8-javascript-144.png" className="responsive-img" />
+                  <img alt="" src="https://shubhank19.pythonanywhere.com/media/images/icons8-javascript-144.png" className="responsive-img" />
                   <br />
                   Javascript
                 </div>

@@ -9,19 +9,19 @@ const DevSkills = (props) => {
           <div className="row text-center">
 
                 <div className="col s3 m2">
-                  <img alt="" src="https://shubhank.codes/media/images/icons8-travis-ci-144.png" className="responsive-img" />
+                  <img alt="" src="https://shubhank19.pythonanywhere.com/media/images/icons8-travis-ci-144.png" className="responsive-img" />
                   <br />
                   TravisCI
                 </div>
 
                 <div className="col s3 m2">
-                <img alt="" src="https://shubhank.codes/media/images/icons8-docker-144.png" className="responsive-img" />
+                <img alt="" src="https://shubhank19.pythonanywhere.com/media/images/icons8-docker-144.png" className="responsive-img" />
                   <br />
                   Docker
                 </div>
 
                 <div className="col s3 m2">
-                <img alt="" src="https://shubhank.codes/media/images/vscode.png" className="responsive-img" />
+                <img alt="" src="https://shubhank19.pythonanywhere.com/media/images/vscode.png" className="responsive-img" />
                   <br />
                   VSCode
                 </div>

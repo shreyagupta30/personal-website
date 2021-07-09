@@ -9,19 +9,19 @@ const FrameworkSkills = (props) => {
           <div className="row text-center">
 
                 <div className="col s3 m2">
-                  <img alt="" src="https://shubhank.codes/media/images/icons8-django-144.png" className="responsive-img" />
+                  <img alt="" src="https://shubhank19.pythonanywhere.com/media/images/icons8-django-144.png" className="responsive-img" />
                   <br />
                   Django
                 </div>
 
                 <div className="col s3 m2">
-                  <img alt="" src="https://shubhank.codes/media/images/flask.png" className="responsive-img" />
+                  <img alt="" src="hhttps://shubhank19.pythonanywhere.com/media/images/flask.png" className="responsive-img" />
                   <br />
                   Flask
                 </div>
 
                 <div className="col s3 m2">
-                  <img alt="" src="https://shubhank.codes/media/images/icons8-react-native-144.png" className="responsive-img" />
+                  <img alt="" src="https://shubhank19.pythonanywhere.com/media/images/icons8-react-native-144.png" className="responsive-img" />
                   <br />
                   React
                 </div>
