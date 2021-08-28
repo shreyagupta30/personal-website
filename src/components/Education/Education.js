@@ -27,13 +27,13 @@ const Education = () => {
                       B.E. in Civil Engineering
                       (2017-2021)
                     </li>
-                    <li>GPA - 7.65 (Scale of 10)</li>
+                    <li>GPA - 7.77 (Scale of 10)</li>
                   </ul>
                 </div>
               </div>
             </div>
 
-            <div className="col s12 m6">
+            {/* <div className="col s12 m6">
               <div className="card">
                 <div className="card-content">
                   <p>
@@ -56,7 +56,7 @@ const Education = () => {
                   </ul>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             </div>
         </div>

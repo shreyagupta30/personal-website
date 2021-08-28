@@ -47,7 +47,7 @@ const Experience = () => {
             </ul>
           </div>
           <div className="card-action">
-            <span>June 2021- August 2021 | Remote</span>
+            <span>June 2021- September 2021 | Remote</span>
           </div>
         </div>
 
