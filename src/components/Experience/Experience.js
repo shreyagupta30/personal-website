@@ -189,7 +189,7 @@ const Experience = () => {
             </ul>
           </div>
           <div className="card-action">
-            <span>July 2020 - Jan 2021 | Remote</span>
+            <span>July 2020 - Ongoing | Remote</span>
           </div>
         </div>
 
