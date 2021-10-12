@@ -15,7 +15,7 @@ const FrameworkSkills = (props) => {
                 </div>
 
                 <div className="col s3 m2">
-                  <img alt="" src="hhttps://shubhank19.pythonanywhere.com/media/images/flask.png" className="responsive-img" />
+                  <img alt="" src="https://shubhank19.pythonanywhere.com/media/images/flask.png" className="responsive-img" />
                   <br />
                   Flask
                 </div>

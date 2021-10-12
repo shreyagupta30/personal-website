@@ -7,6 +7,55 @@ const OpenSource = props => {
         <h3 className="page-title white-text teal">Open Source</h3>
         <div className="container">
           <div className="row">
+
+          <div className="col s12 m6 l4">
+                  <div className="card medium">
+                    <div className="card-image waves-effect waves-block waves-light">
+                      <img
+                      src="https://anuket.io/wp-content/uploads/sites/119/2021/01/anuket-snackables-01-v2.jpg"
+                      className="activator"
+                      />
+                    </div>
+                    <div className="card-content">
+                      <span className="card-title activator teal-text hoverline">
+                        VinePerf - Anuket Project
+                        <i className="mdi-navigation-more-vert right"></i>
+                      </span>
+                      <p>Created helm charts for test tools and automation python script to 
+                        deploy the charts and extract useful deployment details</p>
+                    </div>
+                    <div className="card-reveal">
+                      <span className="card-title brown-text">
+                        Learnings
+                        <i className="mdi-navigation-close right"></i>
+                      </span>
+                      <ul>
+                            <li>
+                              <strong>Kubernetes</strong>
+                            </li>
+                            <li>
+                              <strong>Helm</strong>
+                            </li>
+                            <li>
+                              <strong>Python</strong>
+                            </li>
+                      </ul>
+                      <div className="card-action">
+                        <a
+                          aria-label="Github Repo"
+                          href="https://gerrit.opnfv.org/gerrit/c/vineperf/+/72940"
+                          target="_blank"
+                          data-position="top"
+                          data-tooltip="View Source"
+                          className="btn-floating btn-large waves-effect waves-light brown tooltipped"
+                        >
+                          <i className="fa fa-github"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
                 <div className="col s12 m6 l4">
                   <div className="card medium">
                     <div className="card-image waves-effect waves-block waves-light">

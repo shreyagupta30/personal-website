@@ -10,6 +10,53 @@ const Experience = () => {
           <div className="card-content">
             <div className="row">
               <div className="col s12 m2">
+                <a href="https://www.iitd.ac.in/">
+                  <img
+                    alt="IIT Delhi"                    
+                    src="https://www.latestlaws.com/media/2020/05/1590760739.png"
+                    className="responsive-img center-block"
+                  />
+                </a>
+              </div>
+              <div className="col s12 m10">
+                <p>
+                  <span className="card-title">
+                    <a
+                      href="https://hydrosenselab.github.io/"
+                      className="teal-text hoverline"
+                    >
+                    IIT Delhi
+                    </a>
+                  </span>
+                </p>
+              </div>
+            </div>
+            <div className="role brown-text">Junior Research Fellow</div>
+            <p>
+              <em className="grey-text">
+              Junior Research Fellow @HydroSense Lab under Dr. Manabendra Saharia
+              </em>
+            </p>
+            <ul>
+              <li>
+              Creating a multi source national geospatial database to facilitate comprehensive lightning research
+              </li>
+              {/* <li>
+              </li> */}
+              <li>
+                <strong>Technology Stack: </strong>Python3, libraries like Matplotlib, Geopandas, Xarray, GDAL, Pandas, Numpy.
+              </li>
+            </ul>
+          </div>
+          <div className="card-action">
+            <span>Sept 2021 - Ongoing | Remote</span>
+          </div>
+        </div>
+
+      <div className="card">
+          <div className="card-content">
+            <div className="row">
+              <div className="col s12 m2">
                 <a href="https://mentorship.lfx.linuxfoundation.org/project/aad4229f-704f-4230-a59e-db8fd0f5869e">
                   <img
                     alt="LFX"
@@ -31,15 +78,15 @@ const Experience = () => {
                 </p>
               </div>
             </div>
-            <div className="role brown-text">Mentee</div>
+            <div className="role brown-text">Intern</div>
             <p>
               <em className="grey-text">
-                Full time contributing to Anuket Project as mentee.  
+                Full time contributing to Anuket Project as Intern.  
               </em>
             </p>
             <ul>
               <li>
-                Automating Test-tools deployment in Openstack and Kubernetes
+                Automating Test-tools deployment in Openstack and Kubernetes. 
               </li>
               <li>
                 <strong> Technology stack : </strong>Python, openstack, Kubernetes
@@ -170,7 +217,7 @@ const Experience = () => {
                 </p>
               </div>
             </div>
-            <div className="role brown-text">Research Internship</div>
+            <div className="role brown-text">Research Intern</div>
             <p>
               <em className="grey-text">
               Research Intern @HydroSense Lab under Dr. Manabendra Saharia
@@ -189,7 +236,7 @@ const Experience = () => {
             </ul>
           </div>
           <div className="card-action">
-            <span>July 2020 - Ongoing | Remote</span>
+            <span>July 2020 - July 2021 | Remote</span>
           </div>
         </div>
 
@@ -218,7 +265,7 @@ const Experience = () => {
                 </p>
               </div>
             </div>
-            <div className="role brown-text">Research Internship</div>
+            <div className="role brown-text">Research Intern</div>
             <p>
               <em className="grey-text">
               Research Intern in Center of Cognitive Computing under

@@ -30,10 +30,10 @@ const About = () => {
         <p>
           <strong>Current Focus: </strong>
           <a
-            aria-label="LF Networking Mentorship"
-            href="https://mentorship.lfx.linuxfoundation.org/project/aad4229f-704f-4230-a59e-db8fd0f5869e"
+            aria-label="Junior Research Fellow, HydroSense Lab, IIT Delhi"
+            href="https://hydrosenselab.github.io/team/"
           > 
-            LF Networking
+            Junior Research Fellow, HydroSense Lab, IIT Delhi
           </a>
         </p>
       </div>
