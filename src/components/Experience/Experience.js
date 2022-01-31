@@ -10,10 +10,10 @@ const Experience = () => {
           <div className="card-content">
             <div className="row">
               <div className="col s12 m2">
-                <a href="https://www.iitd.ac.in/">
+                <a href="https://www.wall.app/">
                   <img
-                    alt="IIT Delhi"                    
-                    src="https://www.latestlaws.com/media/2020/05/1590760739.png"
+                    alt="Lime Health"
+                    src="https://pbs.twimg.com/profile_images/1480642426293288960/VPaanSou_400x400.jpg"
                     className="responsive-img center-block"
                   />
                 </a>
@@ -22,7 +22,98 @@ const Experience = () => {
                 <p>
                   <span className="card-title">
                     <a
-                      href="https://hydrosenselab.github.io/"
+                      href="https://www.wall.app/"
+                      className="teal-text hoverline"
+                    >
+                      WALL
+                    </a>
+                  </span>
+                </p>
+              </div>
+            </div>
+            <div className="role brown-text">Backend Developer</div>
+            <p>
+              <em className="grey-text">
+                Backend Developer @WALL
+              </em>
+            </p>
+            <ul>
+              <li>
+              Backend Engineer working on on-chain data aggregation and social aspects of onchain activity.
+              </li>
+              <li>
+                <strong> Technology stack : </strong>Django
+              </li>
+            </ul>
+          </div>
+          <div className="card-action">
+            <span>Jan 2022 - Ongoing | Remote</span>
+          </div>
+        </div>
+
+      <div className="card">
+          <div className="card-content">
+            <div className="row">
+              <div className="col s12 m2">
+                <a href="https://lime.health/">
+                  <img
+                    alt="Lime Health"
+                    src="https://lime.health/assets/logo.02177699.png"
+                    className="responsive-img center-block"
+                  />
+                </a>
+              </div>
+              <div className="col s12 m10">
+                <p>
+                  <span className="card-title">
+                    <a
+                      href="https://lime.health/"
+                      className="teal-text hoverline"
+                    >
+                      Lime Health
+                    </a>
+                  </span>
+                </p>
+              </div>
+            </div>
+            <div className="role brown-text">Backend Developer</div>
+            <p>
+              <em className="grey-text">
+                Backend Developer @Lime Health
+              </em>
+            </p>
+            <ul>
+              <li>
+              The primary focus is on developing and improving backend infrastructure for the company. I worked with the backend team to implement survey form management in Ruby on rails.
+              </li>
+              <li>
+                <strong> Technology stack : </strong>Ruby on Rails
+              </li>
+            </ul>
+          </div>
+          <div className="card-action">
+            <span>Nov 2021 - Jan 2021 | Remote</span>
+          </div>
+        </div>
+
+      <div className="card">
+          <div className="card-content">
+            <div className="row">
+              <div className="col s12 m2">
+                <a href="https://www.iitd.ac.in/">
+                  <img
+                    alt="IIT Delhi"                    
+                    src="https://www.latestlaws.com/media/2020/05/1590760739.png"
+                    className="responsive-img center-block"
+                  />
+                </a>
+              </div>
+              
+              <div className="col s12 m10">
+                <p>
+                  <span className="card-title">
+                    <a
+                      href="https://hydrosense.iitd.ac.in/"
                       className="teal-text hoverline"
                     >
                     IIT Delhi
@@ -49,7 +140,7 @@ const Experience = () => {
             </ul>
           </div>
           <div className="card-action">
-            <span>Sept 2021 - Ongoing | Remote</span>
+            <span>Sept 2021 - Nov 2021 | Remote</span>
           </div>
         </div>
 
