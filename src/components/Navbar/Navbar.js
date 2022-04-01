@@ -114,7 +114,7 @@ const Navbar = () => {
             <a
               aria-label="Open Shreya's resume in a new tab"
               target="blank"
-              href="https://drive.google.com/file/d/1dcfMXWpND05aQrKqrpG-dQfzgLjrkkSL/view?usp=sharing"
+              href="https://drive.google.com/file/d/1XVlqZc5i9uZ5_gSVFfS6nzKPNCG2lbc_/view?usp=sharing"
               className="waves-effect waves-dark grey-text text-darken-3"
             >
               <i className="mdi-action-description small"></i>
