@@ -11,7 +11,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/shreyagupta30/personal-website?logo=github)](https://github.com/shreyagupta30/personal-website/issues)
 ![Size](https://github-size-badge.herokuapp.com/shubhank-saxena/My-Portfolio.svg)
-![Website](https://img.shields.io/website?down_color=lightgrey&down_message=crap%21&up_color=blue&up_message=it%27s%20up&url=https%3A%2F%2Fshreya.codes)
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=crap%21&up_color=blue&up_message=it%27s%20up&url=https%3A%2F%2Fshreyagupta.dev)
 
 [![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/shreyagupta30/personal-website/blob/master/.pre-commit-config.yaml)
 [![License](https://img.shields.io/github/license/shreyagupta30/personal-website)](https://github.com/shreyagupta30/personal-website/blob/master/LICENSE)
