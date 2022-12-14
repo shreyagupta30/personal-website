@@ -103,7 +103,7 @@ const Navbar = () => {
             <a
               aria-label="Navigate to the Blog section"
               target="blank"
-              href="https://blog.shreya.codes"
+              href="https://blog.shreyagupta.dev"
               className="waves-effect waves-dark yellow-text text-darken-2"
             >
               <i className="mdi-content-create small"></i>
@@ -230,7 +230,7 @@ const Navbar = () => {
           <li className="bold">
             <a
               aria-label="Navigate to the Blog section"
-              href="https://blog.shreya.codes"
+              href="https://blog.shreyagupta.dev"
               target="blank"
               className="waves-effect waves-dark yellow-text text-darken-2"
             >
