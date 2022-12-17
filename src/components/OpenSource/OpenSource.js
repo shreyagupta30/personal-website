@@ -372,6 +372,18 @@ const OpenSource = props => {
                           <i className="fa fa-github"></i>
                         </a>
                       </div>
+                      <div className="card-action">
+                        <a
+                          aria-label="Blogs"
+                          href="https://iq.opengenus.org/author/shreya-gupta/"
+                          target="_blank"
+                          data-position="top"
+                          data-tooltip="View Articles"
+                          className="btn-floating btn-large waves-effect waves-light brown tooltipped"
+                        >z
+                          <i className="fa fa-blog"></i>
+                        </a>
+                      </div>
                     </div>
                   </div>
                 </div>

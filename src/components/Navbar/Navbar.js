@@ -14,7 +14,7 @@ const Navbar = () => {
             >
               <h1>
                 Shreya Gupta
-                <span className="brown-text light">Junior Developer</span>
+                <span className="brown-text light"> Developer</span>
               </h1>
             </a>
           </li>

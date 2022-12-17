@@ -5,6 +5,48 @@ const Volunteering = () => {
     <section id="volunteering" className="section scrollspy">
       <h3 className="page-title white-text teal">Volunteering Experience</h3>
       <div className="container">
+
+      <div className="card">
+          <div className="card-content">
+            <div className="row">
+              <div className="col s12 m2">
+                <a href="https://hackforshe.devfolio.co/overview">
+                  <img
+                    alt="Hack4She"
+                    src="https://hackforshe.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fc1424bba13b44fe89a4cc6918a7deba6%2Fassets%2Fcover%2F957.png&w=1440&q=100"
+                  />
+                </a>
+              </div>
+              <div className="col s12 m10">
+                <p>
+                  <span className="card-title">
+                    <a
+                      href="https://hackforshe.devfolio.co/overview"
+                      className="teal-text hoverline"
+                    >
+                      Hack4She
+                    </a>
+                  </span>
+                </p>
+              </div>
+            </div>
+            <div className="role brown-text">Core Member</div>
+            <p>
+              <em className="grey-text">
+                Mentor
+              </em>
+            </p>
+            <ul>
+              <li>
+              Mentored teams in the Hack4She hackathon, helping them develop and present ideas that aimed to improve and acknowledge the challenges faced by women.
+              </li>
+            </ul>
+          </div>
+          <div className="card-action">
+            <span> Nov 18, 2020 - Nov 22, 2020 | Online </span>
+          </div>
+        </div>
+
         <div className="card">
           <div className="card-content">
             <div className="row">
@@ -33,7 +75,7 @@ const Volunteering = () => {
             <div className="role brown-text">Core Member</div>
             <p>
               <em className="grey-text">
-Software Development Division Head
+                Software Development Division Head
               </em>
             </p>
             <ul>
@@ -62,6 +104,7 @@ Software Development Division Head
             <span>June 2019 - Aug 2020 | Patiala, IN</span>
           </div>
         </div>
+
         <div className="card">
           <div className="card-content">
             <div className="row">
@@ -104,6 +147,7 @@ Software Development Division Head
             <span>June 2019 - May 2020 | Patiala, IN</span>
           </div>
         </div>
+
         <div className="card">
           <div className="card-content">
             <div className="row">
@@ -146,6 +190,52 @@ Software Development Division Head
             <span>Nov 2019 - Nov 2019 | Patiala, IN</span>
           </div>
         </div>
+
+        <div className="card">
+          <div className="card-content">
+            <div className="row">
+              <div className="col s12 m2">
+                <a href="https://www.harhathkalam.org/">
+                  <img
+                    alt="DSC"
+                    src="https://media.licdn.com/dms/image/C510BAQF5inJOdgWpWw/company-logo_200_200/0/1544519953148?e=1679529600&v=beta&t=rVA0PWgXW9TSEnwCbr6kfjpmpAZWGoYpmhHg8Wy2WSw"
+                    className="responsive-img center-block"
+                  />
+                </a>
+              </div>
+              <div className="col s12 m10">
+                <p>
+                  <span className="card-title">
+                    <a
+                      href="https://www.harhathkalam.org/"
+                      className="teal-text hoverline"
+                    >
+                      Har Hath Kalam
+                    </a>
+                  </span>
+                </p>
+              </div>
+            </div>
+            <div className="role brown-text">Teacher</div>
+            <p>
+              <em className="grey-text">
+                Teacher
+              </em>
+            </p>
+            <ul>
+              <li>
+              Taught underprivileged students the basics of Math, Science, English, Hindi, and social well-being
+            </li>
+              <li>
+              Prepared students for admissions to reputed English medium schools to support their future success
+              </li>
+            </ul>
+          </div>
+          <div className="card-action">
+            <span>Feb 2018 - Mar 2019 | Patiala, IN</span>
+          </div>
+        </div>
+
       </div>
     </section>
   );

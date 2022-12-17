@@ -39,16 +39,19 @@ const Experience = () => {
             </p>
             <ul>
               <li>
-              Backend Engineer working on on-chain data aggregation and social aspects of onchain activity.
+              Spearheaded the development of on-chain data aggregation and social features, which greatly improved the overall user experience.
               </li>
               <li>
-              Released a new feature which gained traction of about five thousand people in a week.
+              Built and maintained the backend infrastructure for the product, ensuring its smooth operation and performance.
               </li>
               <li>
-              Redesigned code architecture and dockerized sub-modules and set up CI pipelines.
+              Successfully released a new feature that quickly gained popularity, attracting over 5,000 users in just one week.
               </li>
               <li>
-                <strong> Technology stack : </strong>Django, AWS, PostgreSQL, Docker, EVM chain data
+              Streamlined the code architecture and containerized sub-modules, and established continuous integration pipelines to improve efficiency and quality.
+              </li>
+              <li>
+                <strong> Technology stack : </strong>Containerization · Amazon Web Services (AWS) · Django · PostgreSQL, EVM Chain technology
               </li>
             </ul>
           </div>
@@ -90,10 +93,10 @@ const Experience = () => {
             </p>
             <ul>
               <li>
-              The primary focus is on developing and improving backend infrastructure for the company. I worked with the backend team to implement survey form management in Ruby on rails.
+              Focused on enhancing and optimizing the company's backend infrastructure, collaborating with the backend team to introduce survey form management using Ruby on Rails. This helped streamline the survey process and improve data management.
               </li>
               <li>
-                <strong> Technology stack : </strong>Ruby on Rails
+                <strong> Technology stack : </strong>Ruby on Rails, Docker, Continuous Integration and Continuous Delivery (CI/CD)
               </li>
             </ul>
           </div>
@@ -136,12 +139,16 @@ const Experience = () => {
             </p>
             <ul>
               <li>
-              Creating a multi source national geospatial database to facilitate comprehensive lightning research
+              Created the new official website for HydroSense Lab, IIT Delhi, using the Hugo framework, resulting in a modern and user-friendly platform for visitors (https://hydrosense.iitd.ac.in/).
               </li>
-              {/* <li>
-              </li> */}
               <li>
-                <strong>Technology Stack: </strong>Python3, libraries like Matplotlib, Geopandas, Xarray, GDAL, Pandas, Numpy.
+              Participated in a multi-institutional faculty interdisciplinary research project (MFIRP) in crowdsourcing with University College London (UCL), focused on "Making local knowledge matter for landslides and flooding preparedness." As part of this project, I developed a Telegram bot (https://t.me/Indra_ReporterBot) that enabled citizens to record natural/climatic activities around them and submit them to INDRA (https://indra.iitd.ac.in/), helping to improve preparedness for these events.
+              </li>
+              <li>
+              Single-handedly developed a Telegram bot that allows citizens to report and document natural/climatic activities in their area, improving data collection for INDRA.
+              </li>
+              <li>
+                <strong>Technology Stack: </strong> Hugo, JavaScript, Pandas, NumPy, Python
               </li>
             </ul>
           </div>
@@ -183,10 +190,16 @@ const Experience = () => {
             </p>
             <ul>
               <li>
-                Automating Test-tools deployment in Openstack and Kubernetes. 
+              Developed a tool to deploy Trafficgen, Loadgen, and other supporting tools on Openstack and Kubernetes environments in a variety of topologies. This tool has significantly improved the efficiency and flexibility of testing and performance evaluation for network functions virtualization (NFV) in OpenStack (https://gerrit.opnfv.org/gerrit/c/vineperf/+/72940).
               </li>
               <li>
-                <strong> Technology stack : </strong>Python, openstack, Kubernetes
+              Utilized my expertise in OpenStack and Kubernetes to create a tool that simplifies the process of deploying and configuring various testing and performance evaluation tools in diverse network architectures.
+              </li>
+              <li>
+              Utilized my expertise in OpenStack and Kubernetes to create a tool that simplifies the process of deploying and configuring various testing and performance evaluation tools in diverse network architectures.
+              </li>
+              <li>
+                <strong> Technology stack : </strong> OpenStack, Helm Charts, Python, Kubernetes
               </li>
             </ul>
           </div>
@@ -228,7 +241,16 @@ const Experience = () => {
             </p>
             <ul>
               <li>
-                Added wireguard support to nmstate and nispor.
+              Contributed to the development of the nmstate project by adding support for wireguard(nmstate.github.io)
+              </li>
+              <li>
+              Allowed users to easily configure and manage wireguard connections for added security and privacy
+              </li>
+              <li>
+              Worked closely with other developers to ensure smooth integration of wireguard into the platform
+              </li>
+              <li>
+              Tested and verified the functionality of wireguard. Helped to advance the capabilities of nmstate and make it a more useful tool for network configuration and management
               </li>
               <li>
                 <strong> Technology stack : </strong>Python3, pytest, computer networking
@@ -247,7 +269,7 @@ const Experience = () => {
                 <a href="https://fellowship.mlh.io/">
                   <img
                     alt="MLH Logo"
-                    src="https://mlh.io/assets/logos/mlh-facebook-ae6144c0a3605f15992ee2970616db8d.jpg"
+                    src="https://pbs.twimg.com/profile_images/1184141979493568515/NMa0vlIb_400x400.jpg"
                     className="responsive-img center-block"
                   />
                 </a>
