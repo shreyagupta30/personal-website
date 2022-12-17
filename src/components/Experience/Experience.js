@@ -13,7 +13,7 @@ const Experience = () => {
                 <a href="https://www.wall.app/">
                   <img
                     alt="Lime Health"
-                    src="https://pbs.twimg.com/profile_images/1480642426293288960/VPaanSou_400x400.jpg"
+                    src="https://pbs.twimg.com/profile_images/1538869598014930944/UNlVLO9S_400x400.jpg"
                     className="responsive-img center-block"
                   />
                 </a>
@@ -42,7 +42,13 @@ const Experience = () => {
               Backend Engineer working on on-chain data aggregation and social aspects of onchain activity.
               </li>
               <li>
-                <strong> Technology stack : </strong>Django
+              Released a new feature which gained traction of about five thousand people in a week.
+              </li>
+              <li>
+              Redesigned code architecture and dockerized sub-modules and set up CI pipelines.
+              </li>
+              <li>
+                <strong> Technology stack : </strong>Django, AWS, PostgreSQL, Docker, EVM chain data
               </li>
             </ul>
           </div>
