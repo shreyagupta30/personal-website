@@ -24,7 +24,7 @@ const About = () => {
           detail, my unequivocal love for making things, and my mission-driven
           work ethic in my day to day to make it impactful. 
           <p>
-          When I'm not working, I love <a href="https://www.goodreads.com/user/show/83816379-shreya-gupta">curling up with a good book</a>, <a href="https://unsplash.com/@shreyagupta30">capturing beautiful moments with my camera</a>. Recently, I've been trying my hand at urban sketching and hitting the trails in the breathtaking mountains of India. 
+          When I'm not working, I love <a href="https://www.goodreads.com/user/show/83816379-shreya-gupta">curling up with a good book</a>, <a href="https://unsplash.com/@shreyagupta30">capturing beautiful moments with my camera</a>. Recently, I've been trying my hand at urban sketching. 
           </p>
         </p>
         <p>
